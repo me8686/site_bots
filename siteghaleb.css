@@ -1,0 +1,17 @@
+body {
+    font-family: 'B Nazanin', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #007bff;
+}
+
+footer {
+    background-color: #17a2b8;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
