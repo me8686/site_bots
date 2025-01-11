@@ -56,6 +56,28 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="9.jpg" class="card-img-top" alt="محصول 2">
+                    <div class="card-body">
+                        <h5 class="card-title">poco x7 pro</h5>
+                        <p class="card-text">رم: 12gb</p>
+                        <p>حافظه: 512</p>
+                        <p>دو سیمکارته</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="9.jpg" class="card-img-top" alt="محصول 2">
+                    <div class="card-body">
+                        <h5 class="card-title">redmi turbo4</h5>
+                        <p class="card-text">رم: 12gb</p>
+                        <p>حافظه: 512</p>
+                        <p>دو سیمکارته</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </main>
     
